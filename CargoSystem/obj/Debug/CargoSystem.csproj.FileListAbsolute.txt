@@ -1,2 +1,10 @@
 c:\users\ait\documents\visual studio 2015\Projects\CargoSystem\CargoSystem\bin\Debug\CargoSystem.exe.config
 C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\bin\Debug\CargoSystem.exe.config
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\bin\Debug\CargoSystem.exe
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\bin\Debug\CargoSystem.pdb
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.csprojResolveAssemblyReference.cache
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.empFrm.resources
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.Properties.Resources.resources
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.csproj.GenerateResource.Cache
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.exe
+C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.pdb
