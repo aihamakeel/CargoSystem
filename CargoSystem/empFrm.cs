@@ -108,22 +108,22 @@ namespace CargoSystem
 
         private void btnMax_Click(object sender, EventArgs e)
         {
-            LX = this.Location.X;
-            LY = this.Location.Y;
-            SW = this.Size.Width;
-            SH = this.Size.Height;
-            this.Size = Screen.PrimaryScreen.WorkingArea.Size;
-            this.Location = Screen.PrimaryScreen.WorkingArea.Location;
-            //this.WindowState = FormWindowState.Maximized;
+            //LX = this.Location.X;
+            //LY = this.Location.Y;
+            //SW = this.Size.Width;
+            //SH = this.Size.Height;
+            //this.Size = Screen.PrimaryScreen.WorkingArea.Size;
+            //this.Location = Screen.PrimaryScreen.WorkingArea.Location;
+            this.WindowState = FormWindowState.Maximized;
             btnMaxs.Visible = true;
             btnMax.Visible = false;
         }
 
         private void btnMaxs_Click(object sender, EventArgs e)
         {
-            //this.WindowState = FormWindowState.Normal;
-            this.Size = new Size(SW, SH);
-            this.Location = new Point(LX, LY);
+            this.WindowState = FormWindowState.Normal;
+            //this.Size = new Size(SW, SH);
+            //this.Location = new Point(LX, LY);
             btnMaxs.Visible = false;
             btnMax.Visible = true;
         }
