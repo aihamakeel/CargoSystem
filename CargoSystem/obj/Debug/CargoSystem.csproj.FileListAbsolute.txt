@@ -8,3 +8,14 @@ C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.Pro
 C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.csproj.GenerateResource.Cache
 C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.exe
 C:\Users\AITWork\Desktop\Crago\CargoSystem\CargoSystem\obj\Debug\CargoSystem.pdb
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\bin\Debug\CargoSystem.exe.config
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.exe
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.pdb
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\bin\Debug\CargoSystem.exe
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\bin\Debug\CargoSystem.pdb
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.csprojResolveAssemblyReference.cache
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.empFrm.resources
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.Properties.Resources.resources
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.csproj.GenerateResource.Cache
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.frmAdmin.resources
+C:\Users\AIT-PC\Documents\Visual Studio 2015\Projects\Crago\cargoSystem\CargoSystem\obj\Debug\CargoSystem.frmReporting.resources

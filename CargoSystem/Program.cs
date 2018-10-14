@@ -16,7 +16,7 @@ namespace CargoSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new empFrm());
+            Application.Run(new frmAdmin());
         }
     }
 }
